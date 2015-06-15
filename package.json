@@ -1,0 +1,22 @@
+{
+  "name": "aws-app-web-part",
+  "version": "1.0.0",
+  "description": "AWS cześć webowa realizująca umieszcznienie pliku",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmilak197/AWS-app-web-part.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmilak197/AWS-app-web-part/issues"
+  },
+  "homepage": "https://github.com/mmilak197/AWS-app-web-part#readme"
+}
